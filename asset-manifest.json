@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TaskManagementDemo/static/css/main.92cc6656.chunk.css",
+    "main.js": "/TaskManagementDemo/static/js/main.3613910e.chunk.js",
+    "main.js.map": "/TaskManagementDemo/static/js/main.3613910e.chunk.js.map",
+    "runtime-main.js": "/TaskManagementDemo/static/js/runtime-main.d3bb8c4d.js",
+    "runtime-main.js.map": "/TaskManagementDemo/static/js/runtime-main.d3bb8c4d.js.map",
+    "static/js/2.7c6da254.chunk.js": "/TaskManagementDemo/static/js/2.7c6da254.chunk.js",
+    "static/js/2.7c6da254.chunk.js.map": "/TaskManagementDemo/static/js/2.7c6da254.chunk.js.map",
+    "static/js/3.22d3578b.chunk.js": "/TaskManagementDemo/static/js/3.22d3578b.chunk.js",
+    "static/js/3.22d3578b.chunk.js.map": "/TaskManagementDemo/static/js/3.22d3578b.chunk.js.map",
+    "index.html": "/TaskManagementDemo/index.html",
+    "static/css/main.92cc6656.chunk.css.map": "/TaskManagementDemo/static/css/main.92cc6656.chunk.css.map",
+    "static/js/2.7c6da254.chunk.js.LICENSE.txt": "/TaskManagementDemo/static/js/2.7c6da254.chunk.js.LICENSE.txt",
+    "static/media/Calendar.73e37b42.png": "/TaskManagementDemo/static/media/Calendar.73e37b42.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3bb8c4d.js",
+    "static/js/2.7c6da254.chunk.js",
+    "static/css/main.92cc6656.chunk.css",
+    "static/js/main.3613910e.chunk.js"
+  ]
+}
