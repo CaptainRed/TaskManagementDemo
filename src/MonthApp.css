@@ -1,0 +1,94 @@
+h1{
+  background-color: #E3EFFF;
+}
+
+table{
+  height: 1000px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table, th , td{
+  border: 1.5px solid black;
+  border-collapse: collapse;
+  background-color: #e3efff;
+
+}
+
+tbody{
+  text-align: left;
+	vertical-align: top;
+  padding: 10px;
+
+}
+
+
+td{
+  padding: 7px;
+  border-color: black;
+}
+
+h1{
+  text-align: center;
+}
+
+#Lbut{
+	position: relative;
+	left: 410px;
+  top: 52px;
+  padding: 3px 20px;
+}
+
+#Rbut{
+	position: relative;
+	left: 700px;
+  top: 52px;
+  padding: 3px 20px;
+}
+
+#Pbut{
+	position: relative;
+  top: 52px;
+  padding: 3px 20px;
+}
+
+#Lgbut{
+	position: relative;
+	top: 52px;
+  left: 1154px;
+  padding: 3px 20px;
+}
+
+input[type =text] {
+  display: inline;
+  width: 45%;
+}
+
+input[type=submit] {
+  border-radius: 5px;
+  background-color: #f9f9f9 ;
+}
+
+li{
+  list-style: none;
+}
+
+div{
+  position: relative;
+  margin-top: 0%;
+  vertical-align: bottom;
+}
+
+button{
+  border-radius: 50%;
+  background-color: #f9f9f9 ;
+}
+
+input[type=submit]:hover{
+  background-color: lightgray;
+}
+
+button:hover{
+  background-color: rgb(251, 31, 31);
+}
