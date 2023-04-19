@@ -79,14 +79,14 @@ class App extends React.Component {
           <Router>
             <nav>
               <ul>
-                <li className="leftItems"><a href="/">Home</a></li>
+                <li className="leftItems"><a href="/TaskManagementDemo">Home</a></li>
                 <li className="leftItems"><a href="/components/Month">Scheduler</a></li>
                 <li className="leftItems"><a href="#">Group</a></li>
                 <li className="leftItems"><Link to={"./messenger"}>Messenger</Link></li>
 
               </ul>
             </nav>
-            <Route exact path="/" render={props => (
+            <Route exact path="/TaskManagementDemo" render={props => (
                 <div className="App">
                   <aside className="aside1">
                     <a href="/components/Month"><img src={Calendar} alt="Calendar"></img></a>
